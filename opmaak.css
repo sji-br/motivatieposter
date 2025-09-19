@@ -1,0 +1,18 @@
+body{
+	background-color:steelblue;
+	
+}
+.opmaakpagina{
+	width: 50%;
+	margin-left: 25%;
+
+}
+img{
+	width: 100%;
+}
+p{
+font-family:sans-serif;
+
+h1{
+	text-align:center;
+}
